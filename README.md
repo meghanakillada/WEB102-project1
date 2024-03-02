@@ -28,7 +28,7 @@ Here's a walkthrough of implemented required features:
 
 <img src='WEB102Project1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with Licecap
+GIF created with LiceCap
 
 ## Notes
 
