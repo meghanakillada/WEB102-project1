@@ -1,26 +1,26 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - *Community Board: Theme Parks*
 
-Submitted by: **Your Name Here**
+Submitted by: **Maggie Killada**
 
-This web app: **insert description**
+This web app: **Gives a board full of listings for theme parks to visit.**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **There is a unique theme for events or resources relevant to a specific community**
-- [ ] **At least 10 unique resources or events are displayed in a responsive card format**
+- [x] **There is a unique theme for events or resources relevant to a specific community**
+- [x] **At least 10 unique resources or events are displayed in a responsive card format**
 
 The following **optional** features are implemented:
 
-- [ ] Buttons or links to a related resources are on each card component
-- [ ] The site is responsive for both desktop and mobile formats
+- [x] Buttons or links to a related resources are on each card component
+- [x] The site is responsive for both desktop and mobile formats
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
+* [x] The site includes images
 
 ## Video Walkthrough
 
@@ -28,20 +28,15 @@ Here's a walkthrough of implemented required features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with Licecap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Any challenges I had while creating this project was figuring out how to style to page so that it would be responsive. I was having trouble with the styling for the flexbox and cards, but I figured it out after some trial and error.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2024 Maggie Killada
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
